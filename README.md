@@ -13,6 +13,10 @@ This tool is particularly useful when you need to consolidate code from various 
 *   Copies the generated markdown content to the clipboard for convenience.
 *   Remembers the last used directory for quicker access.
 
+## Demo
+
+![Demo GIF](w.gif)
+
 ## Installation
 
 This application is installed from source. You need `git`, a C compiler (like `gcc`), `make`, and the GTK3 development libraries.
