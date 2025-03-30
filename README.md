@@ -37,7 +37,7 @@ This application is installed from source. You need `git`, a C compiler (like `g
 **2. Clone the Repository:**
 
 ```bash
-git clone <your_github_repository_url> # Replace with your actual repo URL
+git clone https://github.com/kedimuzafer/codebase-exporter
 cd codebase-exporter
 ```
 
@@ -84,4 +84,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
